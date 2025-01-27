@@ -1,11 +1,5 @@
 # Zeo
 
-Here’s a suggested README description for your GitHub repository:
-
----
-
-# Zeo
-
 **Zeo** is a powerful and innovative project designed to [briefly describe the purpose of the project, e.g., "optimize data analysis pipelines", "automate tasks", "solve a specific problem", etc.]. This repository contains the core code and documentation for building and deploying the solution.
 
 ## Features
